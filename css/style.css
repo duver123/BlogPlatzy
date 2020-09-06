@@ -49,3 +49,11 @@ h2{
     cursor: pointer;
     color: #ffff;
 }
+.footer{
+    color: white;
+    background: #777;
+    text-align: center;
+    padding: 20px;
+    font-family: 'TimesNewRoman';
+    font-size: 1.3em;
+}
