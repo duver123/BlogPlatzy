@@ -1,2 +1,2 @@
 # BlogPlatzy
-Un blog increible que nos permite practicar.
+Blog Fantastico creado con la libreria Boostrap 
