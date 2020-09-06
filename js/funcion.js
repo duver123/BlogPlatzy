@@ -1,0 +1,1 @@
+document.getElementsByClassName('carousel').carousel()
