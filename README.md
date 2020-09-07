@@ -1,2 +1,2 @@
 # BlogPlatzy
-Blog Fantastico creado con la libreria Boostrap 
+Es un fantastico Sitio Web
