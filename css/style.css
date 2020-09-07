@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 body{
-    color: #f2f2f2;
-    font-family: 'Arial';
+    color: #ffffff60;
+    font-family: 'Helvetica';
     font-size: 1.2em;
     
 }
@@ -15,7 +15,7 @@ h1{
 }
 h2{
     font-weight: bold;
-    color: #000;
+    color: rgb(233, 20, 233);
     font-family: 'Sans-serif';
     font-size: 2.2em;
     padding: 20px;
